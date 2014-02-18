@@ -24,8 +24,9 @@ Use a single font. Choose a profressional font.
 
 Start with black and white. Add colour later - and then only as necessary.
 
-Avoid the default colours and choose a palette 
+Avoid the default colours and choose someone elses  palette:
 
+* [A nicer color palette for the web](http://clrs.cc/)
 * [solarized](http://ethanschoonover.com/solarized)
 * [flat design colors](http://www.flatdesigncolors.com/)
 * [flat ui colors](http://flatuicolors.com/)

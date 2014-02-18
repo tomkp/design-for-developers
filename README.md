@@ -1,8 +1,9 @@
 design-for-developers
 =====================
 
-Tips on UI work for developers
+Simple design tips for developers
 
+------
 
 ###  Alignment
 
@@ -18,6 +19,15 @@ Try and use the same spacing throughout.
 ###  Rhythm
 
 Set a base font size and use a line height 1.5x
+
+example:
+
+```
+html, body {
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+```
 
 ###  CSS Box Model
 

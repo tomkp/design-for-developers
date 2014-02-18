@@ -4,36 +4,57 @@ design-for-developers
 Tips on UI work for developers
 
 
-### Alignment
+###  Alignment
 
 Try and ensure that items on the page line up. 
 Aligning vertically and horizontally is the simplest way to improve a UI.
+
 
 ###  Spacing
 
 Try and use the same spacing throughout.
 
+
 ###  Rhythm
+
+Set a base font size and use a line height 1.5x
+
+###  CSS Box Model
+
+
+[the box model you want](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+
+
+``` 
+*, *v:before, *:after {
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box;
+ }
+``` 
 
 
 ###  Fonts
 
 Use a single font. Choose a profressional font.
 
+
 ###  Colours
 
 Start with black and white. Add colour later - and then only as necessary.
 
-Avoid the default colours and choose someone elses  palette:
+Avoid the default web palette colours.
 
 * [A nicer color palette for the web](http://clrs.cc/)
 * [solarized](http://ethanschoonover.com/solarized)
 * [flat design colors](http://www.flatdesigncolors.com/)
 * [flat ui colors](http://flatuicolors.com/)
 
+
 ###  CSS resets
 
 Use [normalize](http://necolas.github.io/normalize.css/) to set base styles.
+
 
 ###  Guides
 

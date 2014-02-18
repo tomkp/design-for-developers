@@ -34,6 +34,7 @@ Avoid the default colours and choose a palette
 
 Use [normalize](http://necolas.github.io/normalize.css/) to set base styles.
 
-### Style Guides
+###  Guides
 
-The [GDS](https://www.gov.uk/service-manual) have some great advice.
+* [GDS](https://www.gov.uk/service-manual) great advice on many areas of design / dev / writing
+* (North)[https://github.com/Snugug/north]
